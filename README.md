@@ -1,18 +1,18 @@
 # 💸 E-Banking website (Full Stack)
 
-A modern, full stack **E-Banking Management System** developed using **React +Express + Node.js + MySQL**. This platform allows admins to manage customer accounts and transactions, while customers can log in to transfer funds and manage their Fixed Deposits (FDs).
+A modern, full stack **E-Banking Management System** developed using **React + Express + Node.js + MySQL**. This platform allows admins to manage customer accounts and transactions, while customers can log in to transfer funds and manage their Fixed Deposits (FDs).
 
 ---
 ## 🚀 Features
 
 ### 🧑‍💼 Admin Panel
-- JWT-based secure admin login and can create new one
-- Add, update, or delete customers
+- JWT-based secure admin login.
+- Add or delete customers
 - Deposit or withdraw money
 - View all transactions
 - Dashboard with:
   - Total customers
-  - Total transactions
+  - Total number of transactions
   - Today’s transaction summary
 
 ### 👥 Customer Panel
